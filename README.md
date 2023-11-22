@@ -6,6 +6,10 @@ Quantized Convolution Neural Network(QCNN)은 CNN의 메모리 용량을 경량�
 Mnist 데이터셋에 대해 QCNN으로 학습시키고, 웹캠으로 찍은 손 글씨 이미지를 인식한 결과 95%의 정확도를 확인하였다.   
 이미지 분류 정확도가 CNN과 거의 유사한 정확도를 유지함과 동시에 가중치를 저장하는 메모리의 용량은 10.7배 감소하였다.  
 
+## CNN
+![image](https://github.com/MunProoo/Realizing_QCNN/assets/52486862/98f123bd-ae13-440e-981f-926bcf8950e9)
+
+
 ## Quntized Process
 ![image](https://github.com/MunProoo/Realizing_QCNN/assets/52486862/28509274-105c-46a7-bb8b-d525f8636aac)  
 QCNN의 더 자세한 설명은 하단의 논문에서 확인하실 수 있습니다.
